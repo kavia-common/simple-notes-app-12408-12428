@@ -1,7 +1,8 @@
 {
-  "name": "vite",
+  "name": "simple-notes-frontend",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "A simple notes app UI built with Vite (vanilla JS).",
   "type": "module",
   "scripts": {
     "dev": "vite dev",
@@ -12,11 +13,7 @@
     "@typescript-eslint/eslint-plugin": "^8.29.1",
     "@typescript-eslint/parser": "^8.29.1",
     "eslint-plugin-import": "^2.31.0",
-    "eslint-plugin-react": "^7.37.5",
-    "vite": "^6.2.0"
-  },
-  "dependencies": {
-    "@eslint/js": "^9.24.0",
-    "save-dev": "^0.0.1-security"
+    "vite": "^6.2.0",
+    "@eslint/js": "^9.24.0"
   }
 }
